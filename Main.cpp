@@ -2,6 +2,7 @@
 
 int main() {
 
-	//Output 10 names to the screen. 
+	//Output 100 names to the screen. 
+	// I recommend 100 names to generate any gems. Real gems start at 200 mark. 
 	name(100);
 }
