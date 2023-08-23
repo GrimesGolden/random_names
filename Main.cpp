@@ -3,5 +3,5 @@
 int main() {
 
 	//Output 10 names to the screen. 
-	name(35);
+	name(100);
 }
