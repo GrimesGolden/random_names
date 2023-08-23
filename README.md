@@ -11,6 +11,3 @@ In fact I would further modify this program in the following way.
 
 The user can add a list of chosen names to the program, "good names" if the name is already on that list it will generate again until it finds an "original name".
 In this way the user can perfect his choices continuously. 
-
-
-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
